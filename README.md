@@ -19,5 +19,7 @@ Departamento de Ciências Exatas e Aplicadas
 
 ## Aluno 
 Pedro Emanuel de Brito Rodrigues
+
 pedroemanuel_08@hotmail.com
+
 Matrícula:	20220039135
