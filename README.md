@@ -16,3 +16,8 @@ Taciano de Morais Silva - UFRN/CERES
 **Universidade Federal do Rio Grande do Norte**  
 Centro de Ensino Superior do Seridó - Caicó  
 Departamento de Ciências Exatas e Aplicadas
+
+## Aluno 
+Pedro Emanuel de Brito Rodrigues
+pedroemanuel_08@hotmail.com
+Matrícula:	20220039135
